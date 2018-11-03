@@ -1,0 +1,2 @@
+# UnityChanToonShaderVer2_VerticalDissolve
+UnityChanToonShaderVer2 with VerticalDissolve
