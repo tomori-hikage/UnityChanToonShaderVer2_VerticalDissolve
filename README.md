@@ -15,9 +15,9 @@ UnityChanToonShaderVer2_VerticalDissolveはUTS2.0にVerticalDissolve機能を追
 
 ## Author
 
-Twitter: [@tomori_hikage](https://twitter.com/tomori_hikage)  
+GitHub: [tomori-hikage](https://github.com/tomori-hikage)  
 Qiita: [@tomori_hikage](https://qiita.com/tomori_hikage)  
-GitHub: [tomori-hikage](https://github.com/tomori-hikage)
+Twitter: [@tomori_hikage](https://twitter.com/tomori_hikage)
 
 ## Original
 
