@@ -6,8 +6,7 @@ UnityChanToonShaderVer2_VerticalDissolveはUTS2.0にVerticalDissolve機能を追
 
 ## Demo
 
-![Demo1](https://github.com/tomori-hikage/UnityChanToonShaderVer2_EmissiveScroll/blob/readme_images/Images/gif1.gif)
-![Demo2](https://github.com/tomori-hikage/UnityChanToonShaderVer2_EmissiveScroll/blob/readme_images/Images/gif2.gif)
+![Demo1](https://github.com/tomori-hikage/UnityChanToonShaderVer2_VerticalDissolve/blob/readme_images/Images/gif1.gif)
 
 ## Install
 
